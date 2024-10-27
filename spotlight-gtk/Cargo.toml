@@ -1,0 +1,7 @@
+[package]
+name = "spotlight-gtk"
+version = "0.0.0"
+
+[dependencies]
+anyhow = "1.0.86"
+log = "0.4.21"

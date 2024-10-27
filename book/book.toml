@@ -1,0 +1,6 @@
+[book]
+title = "Spotlight"
+authors = [ "Kaitlyn~Ethylia <kaitlyyn.ethylia@proton.me>" ]
+language = "en"
+multilingual = false
+src = "src"

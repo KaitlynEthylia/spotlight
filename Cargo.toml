@@ -1,0 +1,15 @@
+[workspace]
+members = [
+	"spotlight",
+	"spotlight-common",
+	"spotlight-gtk",
+	"spotlight-tui",
+	"spotlight-qt",
+	"spotlight-engine",
+]
+
+[workspace.package]
+repository = "https://github.com/KaitlynEthylia/spotlight"
+authors = ["Kaitlyn~Ethylia <kaitlyyn.ethylia@proton.me>"]
+edition = "2021"
+license = "JSON"
